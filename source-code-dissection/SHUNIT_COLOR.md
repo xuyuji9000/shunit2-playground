@@ -7,6 +7,11 @@ This document dissects `SHUNIT_COLOR` environment variable related logic at the 
 
 ![SHUNIT_COLOR](../assets/SHUNIT_COLOR.png)
 
+<!--
+Google Drawing reference:
+https://docs.google.com/drawings/d/1z99cjAzNes3LS5u6rdDIj-NNoxd_baQtpNxP4qpEa70/edit?usp=drive_web&ouid=107636480068971277726
+-->
+
 ``` bash
 # Enable color output. Options are 'never', 'always', or 'auto'.
 SHUNIT_COLOR=${SHUNIT_COLOR:-auto}
