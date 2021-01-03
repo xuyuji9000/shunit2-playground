@@ -16,7 +16,7 @@ https://docs.google.com/drawings/d/1z99cjAzNes3LS5u6rdDIj-NNoxd_baQtpNxP4qpEa70/
 # Enable color output. Options are 'never', 'always', or 'auto'.
 SHUNIT_COLOR=${SHUNIT_COLOR:-auto}
 ```
-> Receive configuration from user through environment variable.
+> Receive configuration information from user through environment variable.
 
 <br/><br/>
 
